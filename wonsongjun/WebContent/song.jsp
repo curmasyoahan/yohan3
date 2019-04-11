@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>정송희페이지</title>
 </head>
 <body>
-
+	<h1 style="color:red">오늘 gitHup을 해봤다</h1>
+	<h2>어렵다..</h2>
+	
+	
 </body>
 </html>
